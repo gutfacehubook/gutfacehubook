@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2><img src="https://media0.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="50"> FaceGitBookHub for Devs</h2>
+<h2><img src="https://media0.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="50"> GutFaceHubBook for Devs</h2>
 
 ### *Hi there 👋 you wouldn't find me here.*
 

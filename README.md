@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2><img src="https://media0.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="50"> FaceGitBookHub for Devs</h2>
+
+### *Hi there 👋 you wouldn't find me here.*
+
+<a href="https://sfconservancy.org/GiveUpGitHub/"><img src="https://sfconservancy.org/img/GiveUpGitHub.svg"></a>
